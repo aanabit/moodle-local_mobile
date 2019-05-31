@@ -1,4 +1,4 @@
-@mod @mod_data @app @javascript
+@mod @mod_data @app @javascript @app_from3.7
 Feature: Users can store entries in database activities when offline and sync when online
   In order to populate databases while offline
   As a user
